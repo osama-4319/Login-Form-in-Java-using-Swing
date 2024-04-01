@@ -2,12 +2,9 @@
 I have created a Login form in java using Swing. In Login Form if the username is "admin" and password is "123" It will go to next form.
 Switch to Master Branch to see my Project
 
-<h1 align="center">Login Form 
-I have created a Login form in java using Swing. In Login Form if the username is "admin" and password is "123" It will go to next form.
-Switch to Master Branch to see my Project
+<i>Login Form</i>
+![Capture](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/bd445df8-449b-4c4d-b091-57254b6e22a9)
 
-<h1 align="center">Login Form
-![Capture](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/e7644dd3-f28d-4f03-9f6b-aa4c1b065d47)
 
 
 <i>Screenshots</i>
