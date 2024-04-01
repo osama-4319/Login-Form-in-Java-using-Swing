@@ -1,27 +1,24 @@
 # Login-Form-in-Java-using-Swing 
 I have created a Login form in java using Swing. In Login Form if the username is "admin" and password is "123" It will go to next form.
-
-
-<h1 align="center">Login Form
-<img src="file:# Login-Form-in-Java-using-Swing 
-I have created a Login form in java using Swing. In Login Form if the username is "admin" and password is "123" It will go to next form.
 Switch to Master Branch to see my Project
 
-<h1 align="center">Login Form
-![Capture](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/06648fa7-fccb-4255-b242-b0b2521a6a18)
+# Login Form
+
+![Capture](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/bd445df8-449b-4c4d-b091-57254b6e22a9)
 
 
-<br>
-<i>Screenshots</i>
 
-![branches](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/666aff86-18bb-4c3e-8157-d68cc38a51d2)
-![remote add](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/8410e262-ec19-4d39-b751-f50eafa7fca6)
-![pull](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/6d62cff6-8d44-4fa0-a10a-bde5db9cd0f9)
-![git status](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/bd2dc21b-e621-4ee9-bd49-9feb4851c2c9)
-![git init](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/b428f716-0a7d-4141-934c-bf61648e4863)
-![git fetch](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/9d7a0b3b-7d57-4c20-bc9a-32981d41b4ed)
-![git commit](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/4d4c0510-43d0-4310-8f4e-cc72d8c0da32)
-![git add](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/a26b2dd3-cdb6-40bd-b396-a925c3c39d09)
-![git add origin and push](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/345054b6-85de-4911-9eb6-83fe077e57d3)
+# Screenshots
 
+
+
+![git add](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/797166b7-dd10-42d2-919d-422b8158ff58)
+![git add origin and push](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/37c0c45a-b3bf-448e-bf1a-2094d352e39e)
+![branches](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/6a7f1463-424f-4c4f-a9b8-009f76306e92)
+![remote add](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/a262e9e2-f0a7-4c9f-9dc6-50f47ddd969f)
+![pull](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/f9f62cd3-6699-4a1a-bcf9-16f19bb86f2a)
+![git status](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/4a47f1b5-fa69-4442-b6b4-0b3dfc53f00b)
+![git init](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/974bb7c1-0712-4985-9ea4-6a4cac0195dd)
+![git fetch](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/bd065d45-693c-4cf6-92bf-549508a1e702)
+![git commit](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/1ba89dcf-8f38-404c-a8d2-225a91be7b13)
 
