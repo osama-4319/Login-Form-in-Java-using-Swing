@@ -8,7 +8,8 @@ I have created a Login form in java using Swing. In Login Form if the username i
 Switch to Master Branch to see my Project
 
 <h1 align="center">Login Form
-![Capture](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/c189fba0-9adc-450c-b33f-d856a7c830e2)
+![Capture](https://github.com/osama-4319/Login-Form-in-Java-using-Swing/assets/165050572/06648fa7-fccb-4255-b242-b0b2521a6a18)
+
 
 <br>
 <i>Screenshots</i>
